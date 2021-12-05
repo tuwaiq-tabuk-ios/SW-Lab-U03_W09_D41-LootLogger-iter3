@@ -20,7 +20,7 @@ Third iteration of LootLogger App where after the user pressing a cell of the ta
    - Passing Data around 
      - `prepare(for:sender:)` 
 ---
-4. Navigating with UINavigationController
+4. Navigating with `UINavigationController`
 5. `UINavigationBar`
    - `UINavigationItem`
    - Adding buttons to the navigation bar
