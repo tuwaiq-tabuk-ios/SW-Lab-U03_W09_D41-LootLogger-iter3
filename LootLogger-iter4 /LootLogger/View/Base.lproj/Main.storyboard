@@ -106,7 +106,11 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3hs-bb-Foc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-                <tapGestureRecognizer id="Zhp-Hy-CaK"/>
+                <tapGestureRecognizer id="Zhp-Hy-CaK">
+                    <connections>
+                        <action selector="backgroundTapped:" destination="CSL-bn-eCC" id="017-ox-X3L"/>
+                    </connections>
+                </tapGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="1808.6956521739132" y="122.54464285714285"/>
         </scene>
