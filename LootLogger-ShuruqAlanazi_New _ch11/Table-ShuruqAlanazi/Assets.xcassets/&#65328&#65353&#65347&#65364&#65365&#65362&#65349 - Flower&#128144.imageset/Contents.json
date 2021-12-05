@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "&#65328&#65353&#65347&#65364&#65365&#65362&#65349 - Flower&#128144.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
